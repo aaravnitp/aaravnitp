@@ -1,2 +1,6 @@
-hello everyone i am nee st github 
-learning github is very hard
+#include<stdio.h>
+int main(){
+    printf("hello world");
+    printf("i dont know what to do now");
+    return 0;
+}
